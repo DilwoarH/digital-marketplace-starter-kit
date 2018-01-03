@@ -12,7 +12,7 @@ git submodule init
 sh start.sh init
 ```
 
-### Start Apps
+### Start Apps
 
 ```
 sh start.sh
