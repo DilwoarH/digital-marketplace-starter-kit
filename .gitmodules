@@ -1,0 +1,48 @@
+[submodule "digitalmarketplace-buyer-frontend"]
+	path = digitalmarketplace-buyer-frontend
+	url = git@github.com:alphagov/digitalmarketplace-buyer-frontend.git
+[submodule "digitalmarketplace-briefs-frontend"]
+	path = digitalmarketplace-briefs-frontend
+	url = git@github.com:alphagov/digitalmarketplace-briefs-frontend.git
+[submodule "digitalmarketplace-admin-frontend"]
+	path = digitalmarketplace-admin-frontend
+	url = git@github.com:alphagov/digitalmarketplace-admin-frontend.git
+[submodule "digitalmarketplace-api"]
+	path = digitalmarketplace-api
+	url = git@github.com:alphagov/digitalmarketplace-api.git
+[submodule "digitalmarketplace-search-api"]
+	path = digitalmarketplace-search-api
+	url = git@github.com:alphagov/digitalmarketplace-search-api.git
+[submodule "digitalmarketplace-user-frontend"]
+	path = digitalmarketplace-user-frontend
+	url = git@github.com:alphagov/digitalmarketplace-user-frontend.git
+[submodule "digitalmarketplace-brief-responses-frontend"]
+	path = digitalmarketplace-brief-responses-frontend
+	url = git@github.com:alphagov/digitalmarketplace-brief-responses-frontend.git
+[submodule "digitalmarketplace-frameworks"]
+	path = digitalmarketplace-frameworks
+	url = git@github.com:alphagov/digitalmarketplace-frameworks.git
+[submodule "digitalmarketplace-frontend-toolkit"]
+	path = digitalmarketplace-frontend-toolkit
+	url = git@github.com:alphagov/digitalmarketplace-frontend-toolkit.git
+[submodule "digitalmarketplace-functional-tests"]
+	path = digitalmarketplace-functional-tests
+	url = git@github.com:alphagov/digitalmarketplace-functional-tests.git
+[submodule "digitalmarketplace-manual"]
+	path = digitalmarketplace-manual
+	url = git@github.com:alphagov/digitalmarketplace-manual.git
+[submodule "digitalmarketplace-scripts"]
+	path = digitalmarketplace-scripts
+	url = git@github.com:alphagov/digitalmarketplace-scripts.git
+[submodule "digitalmarketplace-supplier-frontend"]
+	path = digitalmarketplace-supplier-frontend
+	url = git@github.com:alphagov/digitalmarketplace-supplier-frontend.git
+[submodule "digitalmarketplace-apiclient"]
+	path = digitalmarketplace-apiclient
+	url = git@github.com:alphagov/digitalmarketplace-apiclient.git
+[submodule "digitalmarketplace-utils"]
+	path = digitalmarketplace-utils
+	url = git@github.com:alphagov/digitalmarketplace-utils.git
+[submodule "digitalmarketplace-visual-regression"]
+	path = digitalmarketplace-visual-regression
+	url = git@github.com:alphagov/digitalmarketplace-visual-regression.git
