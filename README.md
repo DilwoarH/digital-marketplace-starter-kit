@@ -10,7 +10,7 @@ git submodule update
 ### Initialise Apps
 
 ```
-sh start.sh init
+sh init.sh
 ```
 
 ### Start Apps
