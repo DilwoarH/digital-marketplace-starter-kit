@@ -2,18 +2,13 @@
 
 ## Instructions
 
-```
-git submodule init
-git submodule update
-```
-
-### Initialise Apps
+### 1. Initialise Apps
 
 ```
 sh init.sh
 ```
 
-### Start Apps
+### 2. Start Apps
 
 ```
 sh start.sh
