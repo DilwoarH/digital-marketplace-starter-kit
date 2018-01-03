@@ -4,6 +4,7 @@
 
 ```
 git submodule init
+git submodule update
 ```
 
 ### Initialise Apps
