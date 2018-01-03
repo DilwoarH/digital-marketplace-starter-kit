@@ -27,5 +27,6 @@ done
 
 if [ $action != "init" ]
 then
+  echo "Applications should now be started..."
   wait
 fi
