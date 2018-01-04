@@ -1,7 +1,9 @@
 #!/bin/bash
-#sudo nginx
+# RUN ALL: sh start.sh
+# RUN Basic: sh start.sh basic
 
 nginx="nginx"
+action=($1 or "")
 
 ps cax | grep $nginx > /dev/null
 
@@ -23,6 +25,9 @@ do
   if [ $counter -eq 1 ]
   then
     sleep 10
+  elif [ $counter -eq 3 ] && [ $action = "basic" ]
+  then
+    break
   fi
 
   ((counter++))
