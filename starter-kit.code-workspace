@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "digitalmarketplace-buyer-frontend"
+		},
+		{
+			"path": "digitalmarketplace-admin-frontend"
+		},
+		{
+			"path": "digitalmarketplace-api"
+		},
+		{
+			"path": "digitalmarketplace-apiclient"
+		},
+		{
+			"path": "digitalmarketplace-brief-responses-frontend"
+		},
+		{
+			"path": "digitalmarketplace-briefs-frontend"
+		},
+		{
+			"path": "digitalmarketplace-frameworks"
+		},
+		{
+			"path": "digitalmarketplace-frontend-toolkit"
+		},
+		{
+			"path": "digitalmarketplace-functional-tests"
+		},
+		{
+			"path": "digitalmarketplace-manual"
+		},
+		{
+			"path": "digitalmarketplace-scripts"
+		},
+		{
+			"path": "digitalmarketplace-search-api"
+		},
+		{
+			"path": "digitalmarketplace-supplier-frontend"
+		},
+		{
+			"path": "digitalmarketplace-user-frontend"
+		},
+		{
+			"path": "digitalmarketplace-utils"
+		},
+		{
+			"path": "digitalmarketplace-visual-regression"
+		}
+	],
+	"settings": {}
+}
