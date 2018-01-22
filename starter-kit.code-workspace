@@ -1,10 +1,25 @@
 {
 	"folders": [
 		{
-			"path": "."
+			"path": "digitalmarketplace-briefs-frontend"
+		},
+		{
+			"path": "digitalmarketplace-brief-responses-frontend"
 		},
 		{
 			"path": "digitalmarketplace-buyer-frontend"
+		},
+		{
+			"path": "digitalmarketplace-supplier-frontend"
+		},
+		{
+			"path": "digitalmarketplace-user-frontend"
+		},
+		{
+			"path": "digitalmarketplace-utils"
+		},
+		{
+			"path": "digitalmarketplace-visual-regression"
 		},
 		{
 			"path": "digitalmarketplace-admin-frontend"
@@ -14,12 +29,6 @@
 		},
 		{
 			"path": "digitalmarketplace-apiclient"
-		},
-		{
-			"path": "digitalmarketplace-brief-responses-frontend"
-		},
-		{
-			"path": "digitalmarketplace-briefs-frontend"
 		},
 		{
 			"path": "digitalmarketplace-frameworks"
@@ -40,17 +49,7 @@
 			"path": "digitalmarketplace-search-api"
 		},
 		{
-			"path": "digitalmarketplace-supplier-frontend"
-		},
-		{
-			"path": "digitalmarketplace-user-frontend"
-		},
-		{
-			"path": "digitalmarketplace-utils"
-		},
-		{
-			"path": "digitalmarketplace-visual-regression"
+			"path": "."
 		}
-	],
-	"settings": {}
+	]
 }
