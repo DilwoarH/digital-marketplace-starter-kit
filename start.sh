@@ -20,7 +20,7 @@ counter=1
 
 for i in "${array[@]}"
 do
-  cd $i && nohup make run-all &>/dev/null &
+  cd $i && nohup make run-all > ../logs/$i.log &
   echo "Starting ${i}..."
   if [ $counter -eq 1 ]
   then
