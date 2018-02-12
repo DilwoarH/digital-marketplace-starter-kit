@@ -8,8 +8,13 @@
 sh init.sh
 ```
 
-### 2. Start Apps
+### 2. Starting All Apps
 
 ```
 sh start.sh
+```
+
+### Starting basic apps
+```
+sh start.sh basic
 ```
