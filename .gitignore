@@ -1,3 +1,5 @@
 
 digitalmarketplace-*
 logs/digitalmarketplace-*
+.vagrant/
+*.log
