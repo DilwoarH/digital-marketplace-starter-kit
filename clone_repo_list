@@ -13,4 +13,5 @@ digitalmarketplace-scripts
 digitalmarketplace-supplier-frontend
 digitalmarketplace-apiclient
 digitalmarketplace-utils
+digitalmarketplace-test-utils
 digitalmarketplace-visual-regression
