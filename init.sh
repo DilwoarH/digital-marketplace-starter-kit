@@ -10,6 +10,7 @@ do
 done
 
 echo "======================INITIALISING REPOS======================"
+sudo easy_install virtualenv
 
 for i in "${array[@]}"
 do
